@@ -1,5 +1,4 @@
 Learn Git
 Use GitHub
 Manage versions
-This line was added by mistake.
 V1.1
